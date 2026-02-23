@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,15 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Contribution Snake (Modern Dark)
+      - name: Generate Dark Modern Snake
         uses: Platane/snk@v3
         with:
           github_user_name: dev0302
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7aa2f7
-            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg
+          color_snake: "#7aa2f7"
+          color_dots: |
+            #0f172a
+            #1e293b
+            #334155
+            #475569
+            #64748b
 
-      - name: Deploy to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
