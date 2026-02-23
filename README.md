@@ -146,13 +146,3 @@ const dev = {
 ```
 
 ---
-
-## 🔥 What makes this version *modern*
-
-* ✅ Dark-theme-friendly
-* ✅ Code-styled **About Me**
-* ✅ Cleaner icon grouping
-* ✅ Minimal but premium animations
-* ✅ Recruiter-friendly & dev-aesthetic
-
----
