@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Dev Malik</h1>
-<h3 align="center">Full-Stack Developer | MERN</h3>
+<h1 align="center">Hey 👋, I'm Dev Malik</h1>
+<h3 align="center">Full-Stack Developer | MERN | Scalable Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+(MERN);Building+Real-World+Web+Apps;Backend+%26+Frontend+Integration;Learning+Deployment+%26+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Building+Scalable+Web+Applications;Real-Time+Apps+with+WebSockets;Modern+UI+Animations+%26+Clean+Code" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on **Full-Stack Development**
-- 🌱 Learning **backend–frontend integration & deployment**
-- 💬 Ask me about **MERN, backend logic, APIs**
-- 📫 **devmalik9953@gmail.com**
-- ⚡ Fun fact: *I enjoy turning complex logic into clean code*
+- 🔭 Focused on **Full-Stack Web Development**
+- 🌱 Exploring **scalable backend systems & deployment**
+- 💬 Ask me about **MERN, APIs, databases, real-time apps**
+- 📫 Reach me at **devmalik9953@gmail.com**
+- ⚡ Fun fact: *I love turning complex logic into elegant solutions*
 
 ---
 
@@ -21,32 +21,38 @@
 
 ### 👨‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
 </p>
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,gsap" />
 </p>
 
-### 🧠 Backend
+### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases & ORM
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
 </p>
 
-### 🧰 Tools
+### 🔌 Real-Time & Animations
+- **WebSockets** – real-time communication  
+- **GSAP** – advanced UI animations  
+- **Lenis** – smooth scrolling experiences  
+
+### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev0302&show_icons=true&theme=tokyonight" height="160"/>
@@ -69,7 +75,7 @@
 
 ## 🏆 Achievements
 
-- 🏅 **SIH 2025** — Internal Round Cracked
+- 🏅 **Smart India Hackathon 2025** — Internal Round Qualified
 
 ---
 
@@ -93,5 +99,5 @@
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  ⭐ Thanks for stopping by — feel free to check out my repositories!
 </p>
