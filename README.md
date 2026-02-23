@@ -22,24 +22,25 @@
 
 ## 🧑‍💻 About Me
 
-```ts
-const dev = {
-  role: "Full-Stack Developer",
-  stack: "MERN",
-  interests: [
-    "Scalable Backends",
-    "Real-Time Applications",
-    "Clean Architecture",
-    "Smooth UI Animations"
-  ],
-  email: "devmalik9953@gmail.com"
-};
-```
+I’m a **Full-Stack Developer** who enjoys building **real-world, scalable web applications** — not just demos.
 
-* 🔭 Building **production-ready full-stack applications**
-* 🌱 Learning **system design, deployment & scalability**
-* 💬 Ask me about **MERN, APIs, databases, WebSockets**
-* ⚡ Fun fact: *Clean code > clever code*
+I primarily work with the **MERN stack**, focusing on:
+- clean and maintainable backend architectures  
+- modern, responsive frontends  
+- real-time features where performance and reliability matter  
+
+I care deeply about **code quality, scalability, and user experience**.  
+If something feels slow, messy, or over-engineered, I like simplifying it.
+
+### What I’m currently focused on
+- ⚙️ Backend–frontend integration & system design  
+- 🚀 Deployment, scalability & production workflows  
+- 🔌 Real-time systems using **WebSockets**  
+- 🎞 Smooth, meaningful UI animations with **GSAP & Lenis**
+
+> ⚡ *Great products come from simple ideas, clean code, and attention to detail.*
+
+📫 **Reach me at:** `devmalik9953@gmail.com`
 
 ---
 
@@ -48,37 +49,31 @@ const dev = {
 ## ⚙️ Tech Stack
 
 ### 👨‍💻 Languages
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp&theme=dark" />
 </p>
 
 ### 🎨 Frontend
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,gsap&theme=dark" />
 </p>
 
 ### 🧠 Backend
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
 ### 🗄️ Database & ORM
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" />
 </p>
 
 ### 🔌 Real-Time & Motion
-
-* ⚡ **WebSockets** – live communication
-* 🎞 **GSAP** – high-performance animations
-* 🧭 **Lenis** – smooth scrolling UX
+- ⚡ **WebSockets** – real-time communication  
+- 🎞 **GSAP** – high-performance UI animations  
+- 🧭 **Lenis** – smooth scrolling experiences  
 
 ### 🧰 Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
@@ -105,7 +100,14 @@ const dev = {
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev0302/dev0302/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dev0302/dev0302/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dev0302/dev0302/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/dev0302/dev0302/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
@@ -114,7 +116,7 @@ const dev = {
 
 ## 🏆 Achievements
 
-* 🥇 **Smart India Hackathon 2025**
+- 🥇 **Smart India Hackathon 2025**  
   *Internal Round Qualified*
 
 ---
@@ -141,8 +143,5 @@ const dev = {
 ---
 
 <p align="center">
-  <i>⭐ If you like my work, consider starring a repo!</i>
+  <i>⭐ If you like my work, consider starring a repository!</i>
 </p>
-```
-
----
