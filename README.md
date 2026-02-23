@@ -34,6 +34,7 @@ const dev = {
   ],
   email: "devmalik9953@gmail.com"
 };
+```
 
 * 🔭 Building **production-ready full-stack applications**
 * 🌱 Learning **system design, deployment & scalability**
