@@ -27,10 +27,11 @@
 ### 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" />
-  <img 
-    src="https://assets.codepen.io/16327/gsap-logo.svg" 
-    width="48" 
-    height="48" 
+  
+   <img
+    src="https://cdn.simpleicons.org/greensock/88CE02"
+    width="48"
+    height="48"
     alt="GSAP"
   />
 </p>
