@@ -26,7 +26,7 @@
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,gsap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,gsap,nextjs" />
 </p>
 
 ### ⚙️ Backend
