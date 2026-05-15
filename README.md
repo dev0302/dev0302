@@ -27,7 +27,12 @@
 ### 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/GSAP_Logo.svg" width="45" />
+  <img 
+    src="https://assets.codepen.io/16327/gsap-logo.svg" 
+    width="48" 
+    height="48" 
+    alt="GSAP"
+  />
 </p>
 
 ### ⚙️ Backend
