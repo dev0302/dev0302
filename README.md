@@ -107,11 +107,8 @@
     <img src="assets/certificate4.png" width="220" alt="Certificate 4"/>
   </a>
 </td>
-<td align="center">
-  <a href="assets/certificate5.png">
-    <img src="assets/certificate5.png" width="220" alt="Certificate 5"/>
-  </a>
-</td>
+  
+<td></td>
 <td></td>
 </tr>
 </table>
