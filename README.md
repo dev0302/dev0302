@@ -80,7 +80,11 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev0302/dev0302/output/github-contribution-grid-snake.svg" width="100%"/>
+    <img src="assets/snakegridtitle.gif" width="500" alt="Snake Title">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/dev0302/dev0302/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Snake Animation">
 </p>
 
 ---
