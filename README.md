@@ -68,11 +68,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dev0302&hide_border=true&border_radius=14&background=1C1C1E&ring=0A84FF&fire=FF9F0A&currStreakLabel=F5F5F7&currStreakNum=0A84FF&sideNums=F5F5F7&sideLabels=AEAEB2&dates=8E8E93"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev0302&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&layout=donut&bg_color=1C1C1E&title_color=F5F5F7&text_color=AEAEB2&custom_title=Dev's%20Most%20Used%20Languages">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev0302&show_icons=true&line_height=30&rank_icon=github&hide_border=true&border_radius=14&bg_color=1C1C1E&title_color=F5F5F7&text_color=AEAEB2&icon_color=0A84FF"><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=dev0302&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10"><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev0302&hide_border=true&border_radius=14&bg_color=1C1C1E&title_color=F5F5F7&color=0A84FF&line=0A84FF&point=FF375F&area=true&area_color=64D2FF">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dev0302&hide_border=true&border_radius=14&background=1C1C1E&ring=0A84FF&fire=FF9F0A&currStreakLabel=F5F5F7&currStreakNum=0A84FF&sideNums=F5F5F7&sideLabels=AEAEB2&dates=8E8E93" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev0302&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&layout=donut&bg_color=1C1C1E&title_color=F5F5F7&text_color=AEAEB2&custom_title=Dev's%20Most%20Used%20Languages" width="48%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=dev0302&show_icons=true&line_height=30&rank_icon=github&hide_border=true&border_radius=14&bg_color=1C1C1E&title_color=F5F5F7&text_color=AEAEB2&icon_color=0A84FF" width="48%" />
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev0302&hide_border=true&border_radius=14&bg_color=1C1C1E&title_color=F5F5F7&color=0A84FF&line=0A84FF&point=C084FC&area=true&area_color=64D2FF" width="100%" />
 </p>
 
 ---
