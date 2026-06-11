@@ -8,7 +8,6 @@
 ---
 
 ## 🚀 About Me
-
 - 🔭 Focused on **Full-Stack Web Development**
 - 🌱 Exploring **scalable backend systems & deployment**
 - 💬 Ask me about **MERN, APIs, databases, real-time apps**
@@ -62,12 +61,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev0302&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev0302&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev0302&layout=compact&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dev0302&hide_border=true&border_radius=14&background=1C1C1E&ring=0A84FF&fire=FF9F0A&currStreakLabel=F5F5F7&currStreakNum=0A84FF&sideNums=F5F5F7&sideLabels=AEAEB2&dates=8E8E93"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev0302&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&layout=donut&bg_color=1C1C1E&title_color=F5F5F7&text_color=AEAEB2&custom_title=Dev's%20Most%20Used%20Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=dev0302&show_icons=true&line_height=30&rank_icon=github&hide_border=true&border_radius=14&bg_color=1C1C1E&title_color=F5F5F7&text_color=AEAEB2&icon_color=0A84FF"><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=dev0302&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10"><br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev0302&hide_border=true&border_radius=14&bg_color=1C1C1E&title_color=F5F5F7&color=0A84FF&line=0A84FF&point=FF375F&area=true&area_color=64D2FF">
 </p>
 
 ---
@@ -75,15 +73,54 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev0302/dev0302/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/dev0302/dev0302/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
 ---
 
+## 🏆 Certificates & Achievements
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  <a href="assets/certificate1.png">
+    <img src="assets/certificate1.png" width="220" alt="Certificate 1"/>
+  </a>
+</td>
+<td align="center">
+  <a href="assets/certificate2.png">
+    <img src="assets/certificate2.png" width="220" alt="Certificate 2"/>
+  </a>
+</td>
+<td align="center">
+  <a href="assets/certificate3.png">
+    <img src="assets/certificate3.png" width="220" alt="Certificate 3"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="assets/certificate4.png">
+    <img src="assets/certificate4.png" width="220" alt="Certificate 4"/>
+  </a>
+</td>
+<td align="center">
+  <a href="assets/certificate5.png">
+    <img src="assets/certificate5.png" width="220" alt="Certificate 5"/>
+  </a>
+</td>
+<td></td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 🤝 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-malik-976230311">
     <img src="https://skillicons.dev/icons?i=linkedin" />
