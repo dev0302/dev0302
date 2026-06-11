@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Animated Particle Banner" />
+  <img src="assets/banner.png" alt="Dev Malik Banner" width="100%" height="300" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Dev Malik</h1>
