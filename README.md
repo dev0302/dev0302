@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.gif" width="100%" alt="Animated Particle Banner" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Dev Malik</h1>
 <h3 align="center">Full-Stack Developer | MERN | Scalable Web Apps</h3>
 
@@ -16,31 +20,36 @@
 </h2>
 
 
+
 <p>
-  <img src="assets/focused.png" alt="Focused" width="30" align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/focused.png" width="20" align="center">
   <strong>Focused on</strong> Full-Stack Web Development
 </p>
 
 <p>
-  <img src="assets/exploring.png" alt="Exploring" width="30" align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/exploring.png" width="20" align="center">
   <strong>Exploring</strong> scalable backend systems & deployment
 </p>
 
 <p>
-  <img src="assets/message.png" alt="Message" width="30" align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/message.png" width="20" align="center">
   <strong>Ask me about</strong> MERN, APIs, databases, and real-time applications
 </p>
 
 <p>
-  <img src="assets/gmail.png" alt="Email" width="30" align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/gmail.png" width="20" align="center">
   <strong>Email:</strong> devmalik9953@gmail.com
 </p>
 
 <p>
-  <img src="assets/funfact.png" alt="Fun Fact" width="30" align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/funfact.png" width="20" align="center">
   <strong>Fun Fact:</strong> <em>I love turning complex logic into elegant solutions.</em>
 </p>
-
 
 
 
@@ -191,6 +200,15 @@
 
 ---
 
+
+
+
 <p align="center">
-  ⭐ Thanks for stopping by - feel free to check out my repositories!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b>Thanks for visiting my profile! Explore my repositories and don't forget to ⭐ your favorites.</b>
 </p>
+
+
+
+
+
