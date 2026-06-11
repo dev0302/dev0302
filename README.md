@@ -9,16 +9,44 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 Focused on **Full-Stack Web Development**
-- 🌱 Exploring **scalable backend systems & deployment**
-- 💬 Ask me about **MERN, APIs, databases, real-time apps**
-- 📫 Reach me at **devmalik9953@gmail.com**
-- ⚡ Fun fact: *I love turning complex logic into elegant solutions*
+
+<h2>
+  <img src="assets/aboutme.png" alt="About Me" width="35" align="center" />
+  About Me
+</h2>
+
+
+<p>
+  <img src="assets/focused.png" alt="Focused" width="30" align="center">
+  <strong>Focused on</strong> Full-Stack Web Development
+</p>
+
+<p>
+  <img src="assets/exploring.png" alt="Exploring" width="30" align="center">
+  <strong>Exploring</strong> scalable backend systems & deployment
+</p>
+
+<p>
+  <img src="assets/message.png" alt="Message" width="30" align="center">
+  <strong>Ask me about</strong> MERN, APIs, databases, and real-time applications
+</p>
+
+<p>
+  <img src="assets/gmail.png" alt="Email" width="30" align="center">
+  <strong>Email:</strong> devmalik9953@gmail.com
+</p>
+
+<p>
+  <img src="assets/funfact.png" alt="Fun Fact" width="30" align="center">
+  <strong>Fun Fact:</strong> <em>I love turning complex logic into elegant solutions.</em>
+</p>
+
+
+
 
 ---
 
-## 🛠️ Tech Stack
+<h2> <img src="assets/techstack.png" alt="Tech Stack" width="35" align="center" /> Tech Stack </h2>
 
 ### 👨‍💻 Languages
 <p align="left">
