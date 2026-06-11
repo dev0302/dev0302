@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Building+Scalable+Web+Applications;Real-Time+Apps+with+WebSockets;Modern+UI+Animations+%26+Clean+Code" />
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev0302&style=for-the-badge&color=0A84FF" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/dev0302?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" /> </p>
+
 ---
 
 ## 🚀 About Me
