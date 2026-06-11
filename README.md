@@ -133,24 +133,36 @@
 
 ---
 
-## 🤝 Connect With Me
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-malik-976230311">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="assets/linkedin.png" width="60" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/devmalik_0302">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="assets/twitter.png" width="60" alt="Twitter"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/devmalik.0302/?hl=en">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="assets/instagram.png" width="60" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:devmalik9953@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="assets/email.png" width="60" alt="Email"/>
   </a>
 </p>
+
+<p align="center">
+  <b>Let's connect and build something amazing together.</b>
+</p>
+
+
+
 
 ---
 
 <p align="center">
-  ⭐ Thanks for stopping by — feel free to check out my repositories!
+  ⭐ Thanks for stopping by - feel free to check out my repositories!
 </p>
