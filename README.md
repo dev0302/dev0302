@@ -47,9 +47,14 @@
 </p>
 
 ### 🔌 Real-Time & Animations
-- **WebSockets** – real-time communication  
-- **GSAP** – advanced UI animations  
-- **Lenis** – smooth scrolling experiences  
+
+<p align="left">
+  <img src="assets/websocket-svgrepo-com.svg" width="48" height="48" alt="WebSockets" />
+  &nbsp;&nbsp;
+  <img src="assets/gsap.svg" width="48" height="48" alt="GSAP" />
+  &nbsp;&nbsp;
+  <img src="assets/lenis.svg" width="48" height="48" alt="Lenis" />
+</p>
 
 ### 🧰 Tools & Platforms
 <p align="left">
