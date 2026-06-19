@@ -131,6 +131,20 @@
 
 ---
 
+## 🏆 LeetCode Analytics
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/dev0302?theme=dark&ext=contest"
+    width="500"
+  />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev0302&hide_border=true&bg_color=1C1C1E&color=E5E7EB&line=FFB84D&point=4ADE80&area=true&area_color=25221A" />
+</p>
+
+
 ## 🏆 Certificates & Achievements
 
 <div align="center">
