@@ -135,30 +135,48 @@
 
 <div align="center">
 
+<p>
+  <img src="https://img.shields.io/badge/Animated%20Showcase-Apple%20Blue%20Gradient-0A84FF?style=for-the-badge" alt="Animated Certificate Showcase" />
+</p>
+
+<sub>
+  Each certificate is wrapped in a soft-glow animated border. Click any card to open the original certificate.
+</sub>
+
+<br><br>
+
 <table>
 <tr>
-<td align="center">
+<td align="center" width="260">
   <a href="assets/certificate1.png">
-    <img src="assets/certificate1.png" width="220" alt="Certificate 1"/>
+    <img src="assets/certificates/certificate1-frame.gif" width="230" alt="Animated Certificate 1"/>
   </a>
+  <br>
+  <sub><b>Hackathon Achievement</b></sub>
 </td>
-<td align="center">
+<td align="center" width="260">
   <a href="assets/certificate2.png">
-    <img src="assets/certificate2.png" width="220" alt="Certificate 2"/>
+    <img src="assets/certificates/certificate2-frame.gif" width="230" alt="Animated Certificate 2"/>
   </a>
+  <br>
+  <sub><b>Technical Recognition</b></sub>
 </td>
-<td align="center">
+<td align="center" width="260">
   <a href="assets/certificate3.png">
-    <img src="assets/certificate3.png" width="220" alt="Certificate 3"/>
+    <img src="assets/certificates/certificate3-frame.gif" width="230" alt="Animated Certificate 3"/>
   </a>
+  <br>
+  <sub><b>Development Milestone</b></sub>
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" width="260">
   <a href="assets/certificate4.png">
-    <img src="assets/certificate4.png" width="220" alt="Certificate 4"/>
+    <img src="assets/certificates/certificate4-frame.gif" width="230" alt="Animated Certificate 4"/>
   </a>
+  <br>
+  <sub><b>Community Achievement</b></sub>
 </td>
   
 <td></td>
