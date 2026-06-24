@@ -156,7 +156,7 @@
 </td>
 <td align="center">
   <a href="assets/certificate2.png">
-    <img src="assets/certificate2.png" width="220" alt="Certificate 2"/>
+    <img src="assets/codehelp-mern.png" width="220" alt="Certificate 2"/>
   </a>
 </td>
 <td align="center">
@@ -172,8 +172,12 @@
     <img src="assets/certificate4.png" width="220" alt="Certificate 4"/>
   </a>
 </td>
-  
-<td></td>
+<td align="center">
+  <a href="assets/certificate2.png">
+    <img src="assets/certificate2.png" width="220" alt="Certificate 2"/>
+  </a>
+</td>
+
 <td></td>
 </tr>
 </table>
