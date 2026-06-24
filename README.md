@@ -155,7 +155,7 @@
   </a>
 </td>
 <td align="center">
-  <a href="assets/certificate2.png">
+  <a href="assets/codehelp-mern.png">
     <img src="assets/codehelp-mern.png" width="220" alt="Certificate 2"/>
   </a>
 </td>
