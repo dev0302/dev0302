@@ -79,9 +79,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases & ORM
+### 🗄️ Databases, Cache & ORM
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
   <img src="https://skillicons.dev/icons?i=prisma" />
 </p>
 
